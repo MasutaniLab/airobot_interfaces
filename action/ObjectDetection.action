@@ -1,0 +1,9 @@
+# 検出対象
+string target_name
+int32 time_out
+---
+# 検出できたかどうか
+string answer
+---
+# 検出できているかどうか
+string answer_feedback
